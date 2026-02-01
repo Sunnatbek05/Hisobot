@@ -1,0 +1,5 @@
+{
+  "name": "Kunlik Hisobot Companion",
+  "description": "A productivity dashboard for the Kunlik Hisobot Telegram bot, featuring daily task planning, history tracking, and AI-powered productivity insights using Gemini.",
+  "requestFramePermissions": []
+}
